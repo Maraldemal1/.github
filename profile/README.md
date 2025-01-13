@@ -21,6 +21,7 @@ Each member of our team has deep knowledge and experience in blockchain technolo
 Our team has successfully completed several projects and is involved in the following initiatives:
 
 - **Space and Time:** [Guide-Space-and-Time](https://github.com/Maraldemal1/Guide-Space-and-Time)
+- **Fairblock:** [Fairblock-testnet](https://github.com/Maraldemal1/fariblock-testnet)
 - **0g:** [Node Set Up Guide](https://github.com/Maraldemal1/networks/blob/main/0g/node-guide.md) and [Validator Set Up Guide](https://github.com/Maraldemal1/networks/blob/main/0g/validator-guide.md)
 - **Allora:** [Node Set Up Guide](https://github.com/Maraldemal1/networks/blob/main/allora/node-guide.md)
 - **CrossFi:** [Node Set Up Guide](https://github.com/Maraldemal1/networks/blob/main/crossfi/node-guide.md)
